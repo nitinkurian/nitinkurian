@@ -1,2 +1,2 @@
-nitinkurian.github.io
+http://nitinkurian.github.io
 =====================
